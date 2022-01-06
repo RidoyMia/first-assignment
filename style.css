@@ -140,9 +140,7 @@ body{
     font-size: 40px;
     margin-top: 50px;
 }
-.btnthree{
-    color
-}
+
 /* section threee code end */
 /* section four code start */
 .imagefour{
@@ -153,7 +151,7 @@ body{
 /* section four code end */
 /* footer section code start */
 footer{
-    background-color: black;
+    background-color: rgb(146, 10, 10);
     padding: 30px 0px;
     margin-top: 50px;
 }
