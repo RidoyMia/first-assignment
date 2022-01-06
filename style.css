@@ -146,14 +146,33 @@ body{
 .imagefour{
     height: 350px;
     width: 84%;
-    margin-left: 16%;
+    margin-left: 200px;
 }
 /* section four code end */
+.sectionfour-original{
+    background-color: honeydew;
+    padding: 20px 0px 50px 0px;
+}
+.sectionfour{
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+}
+.secfour-part{
+    width: 20%; 
+    text-align: center;
+    margin: 10px;
+    padding: 5px;
+    border: 2px solid gray;
+    border-radius: 30px;
+    box-shadow: 3px 5px 20px 3px gray;;
+}
+
 /* footer section code start */
 footer{
-    background-color: rgb(146, 10, 10);
+    background-color: #0c0101;
     padding: 30px 0px;
-    margin-top: 50px;
+   
 }
 footer h1{
     color: white;
